@@ -1,0 +1,14 @@
+.header{
+    margin-top: 60px;
+}
+
+.headerTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.headerTitlesSmall {
+    position: absolute;
+    top: 20%;
+}

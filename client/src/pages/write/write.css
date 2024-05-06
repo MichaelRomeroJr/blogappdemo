@@ -1,0 +1,26 @@
+.write{
+    padding-top: 25px;
+}
+
+.writeForm{
+    position: relative;
+}
+
+.writeFormGroup{
+    margin-left: 25px;
+    display: flex;
+}
+
+.writeInput{
+    font-size: 25px;
+    padding: 5px;
+    width: 50vw;
+}
+
+.writeSubmit{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    background-color: rgb(219, 219, 219);
+    cursor: pointer;
+}

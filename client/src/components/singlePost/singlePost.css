@@ -1,0 +1,39 @@
+.singlePost{
+    flex: 9;
+}
+
+.singlePostWrapper{
+    padding: 20px;
+    padding-right: 0;
+}
+
+.singlePostTitle{
+    text-align: center;
+    margin: 10px;
+}
+
+.singlePostEdit {
+    float: right;
+    font-size: 18px;
+}
+
+.singlePostIcon{
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.singlePostInformation{
+    margin-bottom: 15px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.singlePostIcon:first-child {
+    color: rgb(5, 121, 82);
+}
+
+.singlePostIcon:last-child {
+    color: rgb(233, 118, 118);
+}
+
